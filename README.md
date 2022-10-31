@@ -23,6 +23,7 @@ Make sure it is something you're proud of and shows us your knowledge and abilit
 Want to impress us a bit more? Here are some tips to do so
 - Make it (the code) look pretty
 - Add support for REST and/or GraphQL
+- Import images and show them
 - Add tests
 - Come up with a solution for relational data from the API
 - Use an EAV entity instead of a single table
